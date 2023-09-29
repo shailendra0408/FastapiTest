@@ -1,0 +1,5 @@
+To start with fastApi, we will use 
+1. Virtual environment 
+2. Install python
+3. Install fastApi 
+
